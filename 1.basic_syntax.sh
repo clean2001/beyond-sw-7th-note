@@ -139,3 +139,13 @@ head -3 second-file.txt
 # 하위 5개 줄을 출력
 tail -5 second-file.txt
 
+# more : 파일의 한 페이지를 출력
+more second-file.txt
+
+# grep -> 문서 안에서 문자열 찾기
+# grep은 find와 많이 쓰인다.
+
+
+# find
+
+# | 파이프의 역할 -> 앞의 명령어의 결과를 뒤로 넘겨줌
