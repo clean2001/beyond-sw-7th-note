@@ -126,3 +126,4 @@ insert into post(id, title, price) values(7, 'hello java', 3.123123);
 -- 1234.100으로 저장된다.
 update post set price=1234.1 where id = 7;
 
+
